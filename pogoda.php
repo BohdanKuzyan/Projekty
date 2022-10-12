@@ -43,7 +43,7 @@
 						echo "<tr><td>$data_prognozy</td><td>$temperatura_noc</td><td>$temperatura_dzien</td><td>$opady</td><td>$cisnienie</td></tr>";
 						
 					}
-					echo "</table>"
+					echo "</table>";
 					
 					mysqli_close($db);
 				?>
